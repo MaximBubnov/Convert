@@ -13,6 +13,6 @@ In GUI forms using Russian language.
 
 В формах использовался русский язык.
 
-Some screenshots:
+
 
 
